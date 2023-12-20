@@ -1,7 +1,6 @@
 .g_tbdr{
   border:1px dashed red;
-   height: 100px;
-   width: 100px;
+    
 }
 .container{
   display:flexbox;
